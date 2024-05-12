@@ -1,0 +1,19 @@
+{
+    "cSpell.words": [
+        "axfreq",
+        "dtype",
+        "fargs",
+        "fromiter",
+        "Lenght",
+        "linespace",
+        "markersize",
+        "mathrm",
+        "mgrid",
+        "ndarray",
+        "valmin",
+        "vectorize",
+        "zlabel",
+        "zlim"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
